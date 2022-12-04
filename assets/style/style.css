@@ -1,0 +1,16 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  min-height: 100vh;
+  background-color: white;
+  color: black;
+}
+
+.main_img {
+  margin-top: 10px;
+  display: none;
+  width: 250px;
+  height: 156px;
+}/*# sourceMappingURL=style.css.map */
